@@ -1,5 +1,3 @@
---Progetto SQL - Food
-
 --Introduction
 --Food waste is a problem that affects every country in the world, especially the more developed ones,
 --and that make even more unacceptable the malnutrition and the food insecurity that million of people have to face everyday.
